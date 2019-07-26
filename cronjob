@@ -1,0 +1,3 @@
+0 17 * * * sh /run.sh
+0 18 * * * sh /run.sh
+0 11 * * * sh /run.sh
